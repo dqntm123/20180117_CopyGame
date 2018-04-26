@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 605fe27c1c706f9498f6e97401b33f31
+timeCreated: 1516759470
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cyborg City
+  fontNames:
+  - Cyborg City
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
